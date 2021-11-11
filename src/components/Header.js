@@ -12,12 +12,12 @@ const Header = () => {
                 </div>
                 <div className="social">
                     <div className="link">
-                        <a target="_blank" href="https://telegram.me/chazza1061">
+                        <a target="_blank" rel="noreferrer" href="https://telegram.me/chazza1061">
                             <i class="fab fa-telegram-plane"></i>
                         </a>
                     </div>
                     <div className="link">
-                        <a target="_blank" href="mailto:hello@clhlabs.io">
+                        <a target="_blank" rel="noreferrer" href="mailto:hello@clhlabs.io">
                             <i class="fas fa-envelope"></i>
                         </a>
                     </div>

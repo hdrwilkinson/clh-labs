@@ -25,14 +25,14 @@ const Main = () => {
                 <div className="right">
                     <div className="projects">
                         <div className="row">
-                            <a target="_blank" href="https://twitter.com/Shroomz_NFT" className="project">
+                            <a target="_blank" rel="noreferrer" href="https://twitter.com/Shroomz_NFT" className="project">
                                 <div className="shroomzProject projectWrapper">
                                     <div className="wrapper">
                                         <h3>ShroomZ</h3>
                                     </div>
                                 </div>
                             </a>
-                            <a target="_blank" href="https://twitter.com/ExiledApes" className="project">
+                            <a target="_blank" rel="noreferrer" href="https://twitter.com/ExiledApes" className="project">
                                 <div className="exiledApesProject projectWrapper">
                                     <div className="wrapper">
                                         <h3>Exiled Apes</h3>
@@ -42,14 +42,14 @@ const Main = () => {
                         </div>
                         <h2 className="desktop">NFT Projects</h2>
                         <div className="row">
-                            <a target="_blank" href="https://twitter.com/SOLgods_" className="project">
+                            <a target="_blank" rel="noreferrer" href="https://twitter.com/SOLgods_" className="project">
                                 <div className="solgodsProject projectWrapper">
                                     <div className="wrapper">
                                        <h3>SolGods</h3>
                                     </div>
                                 </div>
                             </a>
-                            <a target="_blank" href="https://telegram.me/chazza1061" className="project">
+                            <a target="_blank" rel="noreferrer" href="https://telegram.me/chazza1061" className="project">
                                 <div className="projectWrapper">
                                     <div className="wrapper">
                                         <h3>You..?</h3>
